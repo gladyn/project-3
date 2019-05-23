@@ -28,6 +28,7 @@
     "express": "^4.16.4",
     "express-jwt": "^5.3.1",
     "express-session": "^1.16.1",
+    "gh-pages": "^2.0.1",
     "if-env": "^1.0.4",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.5.6",
